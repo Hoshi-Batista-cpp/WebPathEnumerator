@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-z][a-z]
+[._]ss[a-gi-z]
+*.un~
+Session.vim
+.netrwhist
+
+.vscode/
+
